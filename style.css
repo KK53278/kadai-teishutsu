@@ -15,6 +15,7 @@ main {
   display: flex;
 }
 
+
 .step-box {
   width: 300px;
   margin-right: 30px;
@@ -82,5 +83,9 @@ header {
     margin-right: 5%;
     margin-left: 5%;
     margin-top: 20px;
+  }
+  
+  .step-image{
+    height: 150px
   }
 }
